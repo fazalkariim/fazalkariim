@@ -31,6 +31,7 @@ I love building **scalable, production-ready web applications** with clean archi
 ![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend (MERN Stack)
@@ -41,7 +42,7 @@ I love building **scalable, production-ready web applications** with clean archi
 ### 🗄️ Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=prisma)
-![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongoose)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
@@ -59,9 +60,9 @@ I love building **scalable, production-ready web applications** with clean archi
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fazalkarim&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=fazalkariim&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=fazalkarim&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=fazalkariim&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkariim&layout=compact&theme=tokyonight)
 
