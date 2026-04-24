@@ -1,23 +1,30 @@
-# 🚀 Fazal Karim — Web Developer & Builder of Ideas
+<!-- HEADER -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed,200:06b6d4&height=220&section=header&text=Hello%20World%20👋%20I'm%20Fazal%20Karim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff)
-
----
-
-## 🧠 About Me
-
-Hi, I'm **Fazal Karim**, a Web Developer who loves building **real-world, scalable, and AI-powered web applications**.
-
-I don’t just write code — I build **experiences that solve problems**.
-
-- ⚡ Clean & scalable frontend architecture
-- 🧩 Full-stack web applications (Next.js ecosystem)
-- 🤖 AI-integrated modern web apps
-- 🚀 Performance-focused development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Web+Developer;Next.js+Specialist;Full+Stack+Builder;Turning+Ideas+into+Real+Products" />
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ About Me
+
+Hi, I'm **Fazal Karim** — a Web Developer passionate about building **modern, scalable, and AI-powered web applications**.
+
+I focus on turning ideas into real-world digital products with clean UI, strong architecture, and performance-first development.
+
+---
+
+## 🧠 What I Do
+
+- 🚀 Full-stack Web Development (Next.js ecosystem)
+- ⚡ Scalable SaaS & AI-integrated applications
+- 🎨 UI/UX focused frontend engineering
+- 🧩 Clean architecture & performance optimization
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -32,14 +39,14 @@ I don’t just write code — I build **experiences that solve problems**.
 
 ---
 
-## ⚙️ Developer Tools I Use
+## ⚙️ Developer Tools
 
-- 🧠 VS Code
-- 🔥 Git & GitHub
-- ⚡ Vercel Deployment
-- 🧪 Postman API Testing
-- 🎨 Figma (UI Design)
-- 🗄️ Supabase / PostgreSQL
+- 💻 VS Code  
+- 🔥 Git & GitHub  
+- ⚡ Vercel Deployment  
+- 🧪 Postman API Testing  
+- 🎨 Figma UI Design  
+- 🗄️ Supabase / PostgreSQL  
 
 ---
 
@@ -59,21 +66,24 @@ I don’t just write code — I build **experiences that solve problems**.
 AI-powered recipe generator using pantry ingredients  
 → Next.js + AI + Full-stack architecture
 
+---
+
 ### 🧘 Yoga Wellness Tracker
 Personalized yoga recommendation system  
-→ Pose detection + user dashboard + progress tracking
+→ Pose detection + dashboard + progress tracking
+
+---
 
 ### 🌾 Crops Exchange Network
-Platform for farmers & buyers  
+Platform connecting farmers and buyers  
 → Real-time listings + image-based quality system
 
 ---
 
-## 🧩 Developer Zone
+## 🧩 Quick Start (Dev Mode 😄)
 
 ```bash
-# Clone my mindset 😄
-git clone https://github.com/YOUR_USERNAME/awesome-code
-cd build-something-cool
+git clone https://github.com/YOUR_USERNAME/awesome-project
+cd awesome-project
 npm install
 npm run dev
