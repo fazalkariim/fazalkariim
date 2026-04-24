@@ -2,40 +2,48 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed,200:06b6d4&height=220&section=header&text=Hello%20World%20👋%20I'm%20Fazal%20Karim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Web+Developer;Next.js+Specialist;Full+Stack+Builder;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Specialist;Building+Scalable+Web+Apps" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-Hi, I'm **Fazal Karim** — a Web Developer passionate about building **modern, scalable, and AI-powered web applications**.
+Hi, I'm **Fazal Karim** — a passionate **Full Stack Web Developer** specializing in **MERN Stack & Next.js ecosystem**.
 
-I focus on turning ideas into real-world digital products with clean UI, strong architecture, and performance-first development.
+I love building **scalable, production-ready web applications** with clean architecture and modern UI/UX.
 
 ---
 
 ## 🧠 What I Do
 
-- 🚀 Full-stack Web Development (Next.js ecosystem)
-- ⚡ Scalable SaaS & AI-integrated applications
-- 🎨 UI/UX focused frontend engineering
-- 🧩 Clean architecture & performance optimization
+- 🚀 Full Stack Development (MERN Stack)
+- ⚡ Next.js + TypeScript Applications
+- 🧩 REST APIs & Backend Systems
+- 🎨 Modern Responsive UI Design
+- 🤖 AI-powered Web Applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
 
-### Backend
+### ⚙️ Backend (MERN Stack)
 ![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb)
+
+### 🗄️ Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
@@ -46,7 +54,6 @@ I focus on turning ideas into real-world digital products with clean UI, strong 
 - ⚡ Vercel Deployment  
 - 🧪 Postman API Testing  
 - 🎨 Figma UI Design  
-- 🗄️ Supabase / PostgreSQL  
 
 ---
 
@@ -74,16 +81,16 @@ Personalized yoga recommendation system
 
 ---
 
-### 🌾 Crops Exchange Network
-Platform connecting farmers and buyers  
-→ Real-time listings + image-based quality system
+### 🤖 Tynexa AI Chatbot
+AI-powered intelligent chatbot for smart conversations and assistance  
+→ Real-time responses + context-aware AI chat system
 
 ---
 
-## 🧩 Quick Start (Dev Mode 😄)
+## 🧩 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/awesome-project
-cd awesome-project
+git clone https://github.com/YOUR_USERNAME/project
+cd project
 npm install
 npm run dev
