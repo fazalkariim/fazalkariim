@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed,200:06b6d4&height=220&section=header&text=Hello%20World%20👋%20I'm%20Fazal%20Karim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed,200:06b6d4&height=220&section=header&text=%20👋%20I'm%20Fazal%20Karim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Specialist;Building+Scalable+Web+Apps" />
