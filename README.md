@@ -60,7 +60,7 @@ I love building **scalable, production-ready web applications** with clean archi
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?user=fazalkariim&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=fazalkariim&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=fazalkariim&theme=tokyonight)
 
