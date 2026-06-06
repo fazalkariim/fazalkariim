@@ -64,7 +64,7 @@ I love building **scalable, production-ready web applications** with clean archi
 
 ![Streak](https://streak-stats.demolab.com?user=fazalkariim&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=fazalkariim&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkariim&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
