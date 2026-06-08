@@ -37,21 +37,32 @@ I enjoy transforming ideas into modern digital products through clean architectu
 ## Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,vite,html,css" />
 </p>
 
 ## Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+## Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb" />
 </p>
 
 ## Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
 </p>
 
+## Additional Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,figma" />
+</p>
 ---
 
 # 🏆 Featured Projects
