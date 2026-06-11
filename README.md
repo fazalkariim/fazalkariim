@@ -1,15 +1,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:7c3aed,100:06b6d4&text=Fazal%20Karim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=7C3AED&lines=Full+Stack+MERN+Developer;Building+Production-Ready+Applications;React+%7C+Node.js+%7C+MongoDB;Passionate+About+Modern+Web+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fazalkariim&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <img src="profile.png" alt="Fazal Karim Banner" width="100%" />
 </p>
 
 ---
