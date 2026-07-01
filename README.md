@@ -113,7 +113,7 @@ Authentication system with:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalkariim&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalkariim&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazalkariim&theme=tokyonight" />
 </p>
@@ -121,6 +121,9 @@ Authentication system with:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalkariim&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazalkariim&theme=tokyonight&utcOffset=5" />
+</p>  -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fazalkariim&theme=tokyonight&hide_border=true&ring=FFB000&fire=FFB000&currStreakLabel=FFB000" />
 </p>
 
 ---
