@@ -92,18 +92,33 @@ Features:
 
 ---
 
-## 🔐 MERN Authentication System
+## 🧘 Yoga Wellness Tracker
 
-Authentication system with:
+A full-stack wellness platform designed to improve physical fitness, mindfulness, 
+and mental well-being through AI-powered yoga tracking and interactive activities.
 
+**Key Features:**
+- Real-Time Yoga Pose Detection
+- AI-Based Pose Accuracy Feedback
+- Multiple Yoga Sessions and Exercises
+- Mindfulness Meditation Activities
+- Interactive Wellness Games
+- User Progress and Activity Tracking
+- Secure JWT Authentication
 - Email Verification
-- OTP Authentication
-- Forgot Password
-- Reset Password
-- JWT Security
-- Protected Routes
+- Forgot and Reset Password
+- Protected User Routes
+- Personalized Wellness Dashboard
+- Responsive Design for Mobile and Desktop
+  
+**Tech-stack:**
 
-**Tech:** React, Node.js, MongoDB
+- Frontend: Next.js
+- Database: MongoDB and SQLite
+- ORM: Prisma
+- Authentication: JWT
+- Computer Vision: Real-Time Yoga Pose Detection
+- Security: Email Verification and Secure Password Reset
 
 ---
 
