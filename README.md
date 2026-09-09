@@ -5,27 +5,39 @@
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
-Hi, I'm Fazal Karim, a Full Stack Developer specializing in Next.js, React, Node.js, Express.js, MongoDB, and modern web technologies.
+**Full Stack Developer & SaaS Engineer** specializing in building scalable, secure, and production-ready digital products.
 
-I build scalable, secure, responsive, and production-ready web applications with a strong focus on clean architecture, maintainable code, performance, and user experience.
+I work across the full application stack using **Next.js, React, Node.js, NestJS, Express.js, TypeScript, PostgreSQL, MongoDB, and Prisma** to develop high-performance web applications, SaaS platforms, and business systems.
 
-I enjoy turning ideas into complete digital products - from intuitive frontend interfaces to robust backend APIs, databases, authentication systems, and real-world application workflows.
+My experience includes building **multi-tenant SaaS applications, POS/ERP systems, admin dashboards, role-based platforms, APIs, authentication systems, real-time features, and complex business workflows**.
 
-### What I Focus On
+I focus on creating solutions that are not only functional, but also **well-architected, maintainable, secure, responsive, and built to scale**.
 
-- ⚡ Next.js & React Development
-- 🌐 Full Stack MERN Development
-- 🔐 Authentication & Authorization Systems
-- 🔗 RESTful APIs & Backend Architecture
-- 🗄️ Database Design & Integration
-- 🎨 Responsive & Modern UI/UX
-- 📊 Dashboards & Admin Panels
-- 🔄 Real-Time Web Applications
-- 🤖 AI-Powered Web Solutions
-- 🛠️ Scalable & Production-Ready Applications
+### 🚀 Core Expertise
+
+* Next.js & React Application Development
+* Full Stack Web Development
+* SaaS Product Development
+* Multi-Tenant Architecture
+* POS, ERP & Business Management Systems
+* Backend Architecture & REST APIs
+* Authentication & Role-Based Access Control
+* PostgreSQL & MongoDB Database Design
+* Prisma ORM & Data Modeling
+* Admin Dashboards & Internal Tools
+* Real-Time Application Features
+* AI-Powered Web Solutions
+* Subscription & Payment Workflows
+* Responsive & Modern UI Development
+* Performance Optimization & Production Deployment
+
+### 💼 Engineering Approach
+
+I approach development with a product-first mindset - understanding the business requirements, designing the right architecture, and building systems that remain reliable as they grow.
+
+From frontend experience and backend logic to database design, security, integrations, and deployment, I focus on delivering **complete end-to-end solutions that solve real business problems and are ready for production use.**
 
 ---
 
