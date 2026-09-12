@@ -76,36 +76,44 @@ From frontend experience and backend logic to database design, security, integra
 
 # 🏆 Featured Projects
 
-## 🎟️ Bookifyr — Event Booking Platform
+## 🧾 SmartPOS - Multi-Tenant POS & ERP System
 
-A full-stack MERN event booking system featuring:
+A full-stack Point of Sale and ERP platform built for retail businesses, featuring:
 
-- JWT Authentication
-- OTP Email Verification
-- Admin Dashboard
-- Booking Approval System
-- Real-Time Seat Tracking
-- Event Analytics
-- Email Notifications
+- Multi-Branch & Multi-Tenant Architecture
+- Role-Based Access Control
+- POS Sales & Payment Management
+- Inventory & Stock Management
+- Serialized Products with IMEI/Serial Tracking
+- Customer, Vendor & Purchase Management
+- Receivables, Payables & Expense Tracking
+- Returns & Partial Payment Handling
+- Sales Reports & Business Analytics
+- Branch-Wise Dashboard & Revenue Insights
 
-**Tech:** React, Node.js, Express, MongoDB
+**Tech:** Next.js, NestJS, Prisma ORM, PostgreSQL
 
 ---
 
-## 🍽️ Restaurant POS System
+## 🍽️ Smart-Ai-Recipe-Platform
 
-Modern Point of Sale application designed for restaurants.
+A full-stack AI-powered recipe platform that generates personalized recipes from a simple dish name, providing detailed ingredients, preparation steps, cooking instructions, serving information, and an easy-to-follow recipe experience with secure user authentication and recipe management.
 
 Features:
 
-- Order Management
-- Billing System
-- Role-Based Authentication
-- Dashboard Analytics
-- Inventory Management
-- Sales Tracking
+- AI-Powered Recipe Generation
+- Complete Ingredient Lists
+- Step-by-Step Cooking Instructions
+- Personalized Recipe Suggestions
+- User Authentication with Clerk
+- Recipe Management with Strapi CMS
+- PostgreSQL Database
+- Downloadable Recipe PDFs
+- Responsive Modern Interface
+- Dark & Light Theme Support
+- Secure API Protection with Arcjet
 
-**Tech:** MERN Stack
+**Tech:** Next.js 16, React 19, Strapi 5, PostgreSQL, Clerk, Tailwind CSS
 
 ---
 
