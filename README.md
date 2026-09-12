@@ -39,39 +39,33 @@ I approach development with a product-first mindset - understanding the business
 
 From frontend experience and backend logic to database design, security, integrations, and deployment, I focus on delivering **complete end-to-end solutions that solve real business problems and are ready for production use.**
 
+## 🛠️ Tech Stack
+
 ---
 
-# 🚀 Tech Stack
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=4" />
+</td>
+<td align="center" width="25%">
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=4" />
+</td>
+<td align="center" width="25%">
+<h3>Database & ORM</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma&perline=4" />
+</td>
+<td align="center" width="25%">
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" /><br>
+<img src="https://skillicons.dev/icons?i=vercel,firebase,figma,npm&perline=4" />
+</td>
+</tr>
+</table>
 
-## Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,vite,html,css" />
-</p>
-
-## Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-## Database & ORM
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb" />
-</p>
-
-## Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
-</p>
-
-## Additional Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,figma" />
-</p>
 ---
 
 # 🏆 Featured Projects
