@@ -1,203 +1,277 @@
-<!-- HERO SECTION -->
+<div align="center">
 
-<p align="center">
-  <img src="profile.png" alt="Fazal Karim Banner" width="100%" />
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a246a,50:316ac5,100:64b5f6&height=200&section=header&text=Fazal%20Karim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20SaaS%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
----
-# 👨‍💻 About Me
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=316AC5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+%26+ERP+Engineer;Next.js+%7C+NestJS+%7C+PostgreSQL;Building+Scalable+Production+Systems)](https://git.io/typing-svg)
 
-**Full Stack Developer & SaaS Engineer** specializing in building scalable, secure, and production-ready digital products.
+<br/>
 
-I work across the full application stack using **Next.js, React, Node.js, NestJS, Express.js, TypeScript, PostgreSQL, MongoDB, and Prisma** to develop high-performance web applications, SaaS platforms, and business systems.
+[![GitHub followers](https://img.shields.io/github/followers/fazalkariim?style=for-the-badge&logo=github&color=0a246a&labelColor=1a1a2e)](https://github.com/fazalkariim)
+[![Profile Views](https://komarev.com/ghpvc/?username=fazalkariim&style=for-the-badge&color=316ac5&label=PROFILE+VIEWS)](https://github.com/fazalkariim)
 
-My experience includes building **multi-tenant SaaS applications, POS/ERP systems, admin dashboards, role-based platforms, APIs, authentication systems, real-time features, and complex business workflows**.
-
-I focus on creating solutions that are not only functional, but also **well-architected, maintainable, secure, responsive, and built to scale**.
-
-### 🚀 Core Expertise
-
-* Next.js & React Application Development
-* Full Stack Web Development
-* SaaS Product Development
-* Multi-Tenant Architecture
-* POS, ERP & Business Management Systems
-* Backend Architecture & REST APIs
-* Authentication & Role-Based Access Control
-* PostgreSQL & MongoDB Database Design
-* Prisma ORM & Data Modeling
-* Admin Dashboards & Internal Tools
-* Real-Time Application Features
-* AI-Powered Web Solutions
-* Subscription & Payment Workflows
-* Responsive & Modern UI Development
-* Performance Optimization & Production Deployment
-
-### 💼 Engineering Approach
-
-I approach development with a product-first mindset - understanding the business requirements, designing the right architecture, and building systems that remain reliable as they grow.
-
-From frontend experience and backend logic to database design, security, integrations, and deployment, I focus on delivering **complete end-to-end solutions that solve real business problems and are ready for production use.**
-
-## 🛠️ Tech Stack
+</div>
 
 ---
 
-<table width="100%">
+## 👨‍💻 About Me
+
+```ts
+const fazalKarim = {
+  role     : "Full Stack Developer & SaaS Engineer",
+  location : "Pakistan 🇵🇰",
+  focus    : ["Scalable SaaS", "ERP/POS Systems", "Production-Ready Apps"],
+  stack    : {
+    frontend : ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend  : ["NestJS", "Node.js", "Express.js"],
+    database : ["PostgreSQL", "MongoDB", "Prisma ORM"],
+    tools    : ["Git", "Vercel", "Firebase", "Postman", "Figma"],
+  },
+  currently: "Building multi-tenant SaaS & business systems",
+  motto    : "Clean code · Secure systems · Great UX — always.",
+};
+```
+
+---
+
+## 🚀 Core Expertise
+
+<table>
 <tr>
-<td align="center" width="25%">
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=4" />
+<td valign="top" width="50%">
+
+**Frontend & UI**
+- ⚡ Next.js & React Application Development
+- 🎨 Responsive & Modern UI Development
+- 🌐 Full Stack Web Development
+- 🤖 AI-Powered Web Solutions
+
+**Backend & APIs**
+- 🏗️ Backend Architecture & REST APIs
+- 🔐 Authentication & Role-Based Access Control
+- ⚡ Real-Time Application Features
+- 💳 Subscription & Payment Workflows
+
 </td>
-<td align="center" width="25%">
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=4" />
-</td>
-<td align="center" width="25%">
-<h3>Database & ORM</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma&perline=4" />
-</td>
-<td align="center" width="25%">
-<h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" /><br>
-<img src="https://skillicons.dev/icons?i=vercel,firebase,figma,npm&perline=4" />
+<td valign="top" width="50%">
+
+**Architecture & Systems**
+- 🏢 Multi-Tenant SaaS Architecture
+- 🏪 POS, ERP & Business Management Systems
+- 📊 Admin Dashboards & Internal Tools
+- 🔄 Complex Business Workflows
+
+**Data & DevOps**
+- 🐘 PostgreSQL & MongoDB Database Design
+- △ Prisma ORM & Data Modeling
+- 🚀 Performance Optimization
+- ☁️ Production Deployment
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 🏆 Featured Projects
+## 🛠️ Tech Stack
 
-## 🧾 SmartPOS - Multi-Tenant POS & ERP System
+<div align="center">
 
-A full-stack Point of Sale and ERP platform built for retail businesses, featuring:
+**Frontend**
 
-- Multi-Branch & Multi-Tenant Architecture
-- Role-Based Access Control
-- POS Sales & Payment Management
-- Inventory & Stock Management
-- Serialized Products with IMEI/Serial Tracking
-- Customer, Vendor & Purchase Management
-- Receivables, Payables & Expense Tracking
-- Returns & Partial Payment Handling
-- Sales Reports & Business Analytics
-- Branch-Wise Dashboard & Revenue Insights
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Tech:** Next.js, NestJS, Prisma ORM, PostgreSQL
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
 
-## 🍽️ Smart-Ai-Recipe-Platform
+## 🏆 Featured Projects
 
-A full-stack AI-powered recipe platform that generates personalized recipes from a simple dish name, providing detailed ingredients, preparation steps, cooking instructions, serving information, and an easy-to-follow recipe experience with secure user authentication and recipe management.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Features:
+### 🧾 SmartPOS — Multi-Tenant POS & ERP
 
-- AI-Powered Recipe Generation
-- Complete Ingredient Lists
-- Step-by-Step Cooking Instructions
-- Personalized Recipe Suggestions
-- User Authentication with Clerk
-- Recipe Management with Strapi CMS
-- PostgreSQL Database
-- Downloadable Recipe PDFs
-- Responsive Modern Interface
-- Dark & Light Theme Support
-- Secure API Protection with Arcjet
-
-**Tech:** Next.js 16, React 19, Strapi 5, PostgreSQL, Clerk, Tailwind CSS
-
----
-
-## 🧘 Yoga Wellness Tracker
-
-A full-stack wellness platform designed to improve physical fitness, mindfulness, 
-and mental well-being through AI-powered yoga tracking and interactive activities.
+> A full-stack Point of Sale and ERP platform built for retail businesses.
 
 **Key Features:**
-- Real-Time Yoga Pose Detection
-- AI-Based Pose Accuracy Feedback
-- Multiple Yoga Sessions and Exercises
-- Mindfulness Meditation Activities
-- Interactive Wellness Games
-- User Progress and Activity Tracking
-- Secure JWT Authentication
-- Email Verification
-- Forgot and Reset Password
-- Protected User Routes
-- Personalized Wellness Dashboard
-- Responsive Design for Mobile and Desktop
-  
-**Tech-stack:**
+- ✅ Multi-Branch & Multi-Tenant Architecture
+- ✅ Role-Based Access Control
+- ✅ POS Sales & Payment Management
+- ✅ Inventory & Stock Management
+- ✅ Serialized Products with IMEI Tracking
+- ✅ Customer, Vendor & Purchase Management
+- ✅ Receivables, Payables & Expense Tracking
+- ✅ Sales Reports & Business Analytics
+- ✅ Branch-Wise Dashboard & Revenue Insights
 
-- Frontend: Next.js
-- Database: MongoDB and SQLite
-- ORM: Prisma
-- Authentication: JWT
-- Computer Vision: Real-Time Yoga Pose Detection
-- Security: Email Verification and Secure Password Reset
+**Tech Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Smart-AI-Recipe-Platform
+
+> AI-powered recipe platform generating personalized recipes with full user management.
+
+**Key Features:**
+- ✅ AI-Powered Recipe Generation
+- ✅ Complete Ingredient Lists
+- ✅ Step-by-Step Cooking Instructions
+- ✅ User Authentication with Clerk
+- ✅ Recipe Management with Strapi CMS
+- ✅ Downloadable Recipe PDFs
+- ✅ Dark & Light Theme Support
+- ✅ Secure API Protection with Arcjet
+- ✅ Responsive Modern Interface
+
+**Tech Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 Yoga Wellness Tracker
+
+> Full-stack wellness platform with real-time AI-powered yoga pose detection.
+
+**Key Features:**
+- ✅ Real-Time Yoga Pose Detection
+- ✅ AI-Based Pose Accuracy Feedback
+- ✅ Multiple Yoga Sessions & Exercises
+- ✅ Mindfulness Meditation Activities
+- ✅ Interactive Wellness Games
+- ✅ User Progress & Activity Tracking
+- ✅ Secure JWT Authentication
+- ✅ Email Verification & Password Reset
+- ✅ Responsive Design (Mobile + Desktop)
+
+**Tech Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Engineering Approach
+
+> How I build every product — end to end.
+
+```
+🎯 Product-First Mindset
+   Understand requirements before code.
+
+🏗️ Architecture-Driven
+   Design systems that scale without rewrites.
+
+🔒 Security by Default
+   Auth, RBAC & data protection built in.
+
+📦 End-to-End Ownership
+   DB design → API → UI → Deployment.
+
+✅ Production-Ready
+   Clean, tested, maintainable code always.
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalkariim&theme=tokyonight" />
-</p>
+<div align="center">
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalkariim&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazalkariim&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalkariim&theme=tokyonight" width="100%" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalkariim&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazalkariim&theme=tokyonight&utcOffset=5" />
-</p>  -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fazalkariim&theme=tokyonight&hide_border=true&ring=FFB000&fire=FFB000&currStreakLabel=FFB000" />
-</p>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fazalkariim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=316ac5&icon_color=316ac5&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkariim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=316ac5&text_color=ffffff" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=fazalkariim&theme=tokyonight&hide_border=true&ring=316ac5&fire=FFB000&currStreakLabel=316ac5&background=0d1117" width="60%" />
+
+</div>
 
 ---
 
-# 📈 Contribution Activity
+## 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fazalkariim&theme=tokyo-night" />
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fazalkariim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazal-karim-462888276/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fazall_karim/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalkareemi142@gmail.com)
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/fazalkariim" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/fazal-karim-462888276/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/fazall_karim/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:fazalkareemi142@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💡 Developer Philosophy
+## 💡 Developer Philosophy
 
-> Build solutions that are scalable, maintainable, and user-focused.
+<div align="center">
+
+> *"Build solutions that are scalable, maintainable, and user-focused."*
 >
-> Clean code, secure systems, and great user experience always come first.
+> *"Clean code, secure systems, and great user experience always come first."*
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b5f6,50:316ac5,100:0a246a&height=120&section=footer" width="100%" />
+
+</div>
