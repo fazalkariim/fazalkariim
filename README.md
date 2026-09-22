@@ -230,8 +230,6 @@ const fazalKarim = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalkariim&theme=tokyonight" width="100%" />
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fazalkariim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=316ac5&icon_color=316ac5&text_color=ffffff" width="48%" />
@@ -270,8 +268,3 @@ const fazalKarim = {
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b5f6,50:316ac5,100:0a246a&height=120&section=footer" width="100%" />
-
-</div>
