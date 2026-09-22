@@ -1,12 +1,9 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a246a,50:316ac5,100:64b5f6&height=200&section=header&text=Fazal%20Karim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20SaaS%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=316AC5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+%26+ERP+Engineer;Next.js+%7C+NestJS+%7C+PostgreSQL;Building+Scalable+Production+Systems)](https://git.io/typing-svg)
-
-<br/>
+<p align="center">
+  <img src="profile.png" alt="Fazal Karim Banner" width="100%" />
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/fazalkariim?style=for-the-badge&logo=github&color=0a246a&labelColor=1a1a2e)](https://github.com/fazalkariim)
 [![Profile Views](https://komarev.com/ghpvc/?username=fazalkariim&style=for-the-badge&color=316ac5&label=PROFILE+VIEWS)](https://github.com/fazalkariim)
